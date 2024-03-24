@@ -1,0 +1,7 @@
+C:\Users\Win10\Desktop\nesne\CLASS(BORSA)\CLASS(BORSA)\bin\Debug\CLASS(BORSA).exe
+C:\Users\Win10\Desktop\nesne\CLASS(BORSA)\CLASS(BORSA)\bin\Debug\CLASS(BORSA).pdb
+C:\Users\Win10\Desktop\nesne\CLASS(BORSA)\CLASS(BORSA)\obj\x86\Debug\CLASS_BORSA_.Form1.resources
+C:\Users\Win10\Desktop\nesne\CLASS(BORSA)\CLASS(BORSA)\obj\x86\Debug\CLASS_BORSA_.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\CLASS(BORSA)\CLASS(BORSA)\obj\x86\Debug\CLASS(BORSA).csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\nesne\CLASS(BORSA)\CLASS(BORSA)\obj\x86\Debug\CLASS(BORSA).exe
+C:\Users\Win10\Desktop\nesne\CLASS(BORSA)\CLASS(BORSA)\obj\x86\Debug\CLASS(BORSA).pdb
